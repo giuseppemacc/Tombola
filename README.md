@@ -1,3 +1,4 @@
 # Tombola
 Tombola C++
-This is a simple simulation of a game of tombola with the tombolone
+![plot](example1.PNG)
+![plot](example2.PNG)
